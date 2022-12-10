@@ -4,11 +4,9 @@
     box-sizing: border-box;
 }
 
-.container {
+#myCanvas {
     display: flex;
-    width: 80vw;
-    height: 80vh;
-    border: 3px solid black;
+    border: 3px solid red;
     border-radius: 10px;
     margin: 0 auto;
     margin-top: 10vh;
